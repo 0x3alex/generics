@@ -1,3 +1,6 @@
 [submodule "vector"]
 	path = vector
 	url = https://github.com/0x3alex/vector
+[submodule "bst"]
+	path = bst
+	url = https://github.com/0x3alex/bst
