@@ -10,3 +10,7 @@
 	path = stack
 	url = https://github.com/0x3alex/stack
 	branch = main
+[submodule "queue"]
+	path = queue
+	url = https://github.com/0x3alex/queue
+	branch = main
